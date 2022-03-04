@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+.titulo {
+    font-family: arial,sans-serif;
+    text-align: center;
+    letter-spacing: 5px;
+    
+
+}
+
+.parrafo1 {
+    color: white;
+    font-weight: bold;
+    font-size:25px;
+    font-family: arial,sans-serif;
+    background-color: gray;
+
+}
+.imagen1 {
+}
+
+.parrafo3 {
+    color: white;
+    font-weight: bold;
+    font-size:25px;
+    font-family: arial,sans-serif;
+    background-color: gray;
+}
+
+.imagen2 {
+    float: left;
+}
+
+.parrafo2 {
+    font-family: arial;
+    line-height: 18px;
+}
+
+.parrafo4 {
+    font-family: arial,sans-serif;
+    line-height: 18px;
+}

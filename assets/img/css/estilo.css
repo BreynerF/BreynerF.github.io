@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+.titulo {
+    font-family: caveat;
+    font-size: 5rem;
+    font-style: cursive;
+    font-weight: normal;
+    font-variant: small;
+    letter-spacing: 2rem;
+    text-indent: 1em;
+    text-shadow: red 3px 3px 10px;
+    word-spacing: 2rem;
+}
+.parrafo {
+    /*font-weight: bold;
+    /*text-indent: 3em;*/
+    /*max-width: 400px;*/
+    /*min-height: 500px;*/
+    /*border-top: 2px solid black;*/
+    /*border-right: 2px dotted red;*/
+}

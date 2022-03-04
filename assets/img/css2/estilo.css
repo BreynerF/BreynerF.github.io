@@ -1,0 +1,36 @@
+
+
+.curriculum {
+    font-family: arial;
+    color: #454847;
+    text-align: center;
+}
+
+.parrafo1 {
+    font-family: arial;
+    color: black;
+}
+
+.datospersonales {
+    background-color: #91A2AC;
+    color: #5C6A73;
+    text-decoration: underline;
+    font-family: arial;
+}
+
+na {
+    color: #5496BF;
+    font-family: arial;
+}
+
+.nombreyapellidos {
+    font-family: arial;
+}
+
+.direccion {
+    font-family: arial;
+}
+
+.dni {
+    font-family: arial;
+}
